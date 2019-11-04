@@ -3,3 +3,10 @@ An operating system must have a user interface in order to allow a user to do an
 There are graphical user interfaces which use graphics and pictures to allow users to click icons to complete tasks on a computer.
 There are also Command line interfaces that allow users to enter commands to complete tasks on a computer.
 For this, exact spelling and punctuation is required. 
+
+Managing programs:
+Operating systems can do either a single task or they can multitask.
+A single task operating system allows one program to run at a time.
+A multitasking operating system can run multiple programs at a time. This is what most operating systems are nowadays. 
+Multitasking operating systems can have one program in the foreground at a time, but can have many programs running in the background at a time. Running many programs at once can slow your coputer down significantly.
+
