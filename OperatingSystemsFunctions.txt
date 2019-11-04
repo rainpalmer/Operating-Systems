@@ -1,0 +1,5 @@
+Providing a user interface:
+An operating system must have a user interface in order to allow a user to do anything on a computer. 
+There are graphical user interfaces which use graphics and pictures to allow users to click icons to complete tasks on a computer.
+There are also Command line interfaces that allow users to enter commands to complete tasks on a computer.
+For this, exact spelling and punctuation is required. 
